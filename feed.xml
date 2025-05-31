@@ -3,7 +3,7 @@
     <title>咕咕 の 博客</title>
     <link href="https://gugu-blog.vercel.app/feed.xml" rel="self" />
     <link href="https://gugu-blog.vercel.app" />
-    <updated>2025-06-01T03:58:33+08:00</updated>
+    <updated>2025-06-01T04:33:16+08:00</updated>
     <author>
         <name>gugu</name>
     </author>
@@ -18,14 +18,14 @@
         <id>https://gugu-blog.vercel.app/bian-zou-bian-zhuan.html</id>
 
         <updated>2025-05-31T03:54:04+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    过几天写，建博客燃尽了🙃
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                
-<p>的撒大</p>
-<p>大苏打adas</p>
-<p>大</p>
-<p>d dasd 大苏打</p>
+                <p>过几天写，建博客燃尽了🙃</p>
 <p> </p>
             ]]>
         </content>

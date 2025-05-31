@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>咕咕 の 博客</title>
-    <link href="https://gugu.cn/feed.xml" rel="self" />
-    <link href="https://gugu.cn" />
+    <link href="https://gugu-blog.vercel.app/feed.xml" rel="self" />
+    <link href="https://gugu-blog.vercel.app" />
     <updated>2025-06-01T03:58:33+08:00</updated>
     <author>
         <name>gugu</name>
     </author>
-    <id>https://gugu.cn</id>
+    <id>https://gugu-blog.vercel.app</id>
 
     <entry>
         <title>边走边转</title>
         <author>
             <name>gugu</name>
         </author>
-        <link href="https://gugu.cn/bian-zou-bian-zhuan.html"/>
-        <id>https://gugu.cn/bian-zou-bian-zhuan.html</id>
+        <link href="https://gugu-blog.vercel.app/bian-zou-bian-zhuan.html"/>
+        <id>https://gugu-blog.vercel.app/bian-zou-bian-zhuan.html</id>
 
         <updated>2025-05-31T03:54:04+08:00</updated>
             <summary></summary>
@@ -35,8 +35,8 @@
         <author>
             <name>gugu</name>
         </author>
-        <link href="https://gugu.cn/si-lun-quan-xiang-lun-de-yun-dong-xue-mo-xing-wu-liandshu-xue-mo-xing-de-quan-mian-jie-suan.html"/>
-        <id>https://gugu.cn/si-lun-quan-xiang-lun-de-yun-dong-xue-mo-xing-wu-liandshu-xue-mo-xing-de-quan-mian-jie-suan.html</id>
+        <link href="https://gugu-blog.vercel.app/si-lun-quan-xiang-lun-de-yun-dong-xue-mo-xing-wu-liandshu-xue-mo-xing-de-quan-mian-jie-suan.html"/>
+        <id>https://gugu-blog.vercel.app/si-lun-quan-xiang-lun-de-yun-dong-xue-mo-xing-wu-liandshu-xue-mo-xing-de-quan-mian-jie-suan.html</id>
             <category term="机器人协会"/>
 
         <updated>2025-05-29T19:37:26+08:00</updated>
@@ -56,7 +56,7 @@
 <p>       例如：汽车的四轮均以向前的 1m/s 速度转动，最终的车速为向前的 1m/s，而不是 1 * 4 = 4m/s ，此条不做过多赘述。</p>
 <p>2.  在某一方向上，所有的主动自由度速度，都不会对小车的运动产生滑动摩擦，那么小车就会沿着此方向有一可叠加的矢量车速</p>
 <p>       车轮可以分为主动轮与从动轮，因此根据此定义，在本文模型中，将自由度分为主动自由度和被动自由度两种，并构建以下两个小车模型来阐述以上关系：</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://gugu.cn/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-014107-2.png" alt="" width="600" height="360" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-xs.png 300w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-sm.png 480w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-md.png 768w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-lg.png 1024w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-xl.png 1360w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-2xl.png 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://gugu-blog.vercel.app/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-014107-2.png" alt="" width="600" height="360" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-xs.png 300w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-sm.png 480w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-md.png 768w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-lg.png 1024w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-xl.png 1360w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-014107-2-2xl.png 1600w"></figure>
 <ul>
 <li>注：图中橙色表示主动自由度，蓝色表示被动自由度，下文同理</li>
 </ul>
@@ -64,7 +64,7 @@
 <p>       右图中，小车前轮为两个主动轮，后轮为两个从动轮（万向轮）。当两个前轮都以 V 速度向前转动时，小车会沿着主动自由度方向，以 V 速度行驶；当右前轮速度增大至 2V 时，由于后轮为从动轮，不会对小车的运动产生滑动摩擦（滑动摩擦在运动时是必然存在的，此处讨论的是理论系统上，轮速不一致产生的滑动摩擦）。因此，小车依然会沿着主动自由度方向运动，由于前轮转速不一致，小车会逆时针旋转行驶，此时的主动自由度会随着车体旋转而旋转（因主动自由度方向与车轮方向一致），并始终与车速方向保持一致。</p>
 <h3>1.2  全向轮模型建立</h3>
 <p>       全向轮的结构与模型的建立：</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://gugu.cn/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-015557.png" alt="" width="600" height="360" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-xs.png 300w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-sm.png 480w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-md.png 768w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-lg.png 1024w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-xl.png 1360w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-2xl.png 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://gugu-blog.vercel.app/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-015557.png" alt="" width="600" height="360" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-xs.png 300w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-sm.png 480w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-md.png 768w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-lg.png 1024w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-xl.png 1360w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-015557-2xl.png 1600w"></figure>
 <ol>
 <li>全向轮 3D 模型中主轴（电机）旋转的方向为主动自由度方向，滚子旋转的方向为被动自由度方向</li>
 <li data-spm-anchor-id="a2ty_o01.29997173.0.i9.4258c921sODLfR">各个滚子的被动自由度都与主动自由度空间垂直</li>
@@ -72,10 +72,10 @@
 </ol>
 <h3>1.3  四轮全向轮底盘物理模型建立</h3>
 <p>       根据我们协会使用的四轮全向轮底盘结构，可以建立拥有四个主动自由度和四个被动自由度的物理模型。受到电路中叠加定理的启发，我将该四轮全向轮底盘模型分解为两个模型的叠加。</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://gugu.cn/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-021633.png" alt="" width="600" height="222" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-xs.png 300w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-sm.png 480w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-md.png 768w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-lg.png 1024w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-xl.png 1360w ,https://gugu.cn/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-2xl.png 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://gugu-blog.vercel.app/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-021633.png" alt="" width="600" height="222" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-xs.png 300w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-sm.png 480w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-md.png 768w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-lg.png 1024w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-xl.png 1360w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Ping-Mu-Jie-Tu-2025-05-31-021633-2xl.png 1600w"></figure>
 <p>       在两个模型中，各自的主动自由度和被动自由度方向一致，只要保证两个主动轮的轮速一致，就可以产生方向为主动自由度方向的相应车速。由于模型各自都没有因轮速不同产生滑动摩擦，并且两个模型产生的车速方向相互垂直，通过车速的矢量叠加，可以得到该全向轮底盘的最终车速。</p>
 <h3>1.4  四轮全向轮底盘数学模型建立</h3>
-<figure class="post__image post__image--center">  <img loading="lazy"  src="https://gugu.cn/media/posts/1/Wei-Xin-Tu-Pian_20250531024806.jpg" alt="" width="600" height="424" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu.cn/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-xs.jpg 300w ,https://gugu.cn/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-sm.jpg 480w ,https://gugu.cn/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-md.jpg 768w ,https://gugu.cn/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-lg.jpg 1024w ,https://gugu.cn/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-xl.jpg 1360w ,https://gugu.cn/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-2xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center">  <img loading="lazy"  src="https://gugu-blog.vercel.app/media/posts/1/Wei-Xin-Tu-Pian_20250531024806.jpg" alt="" width="600" height="424" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gugu-blog.vercel.app/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-xs.jpg 300w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-sm.jpg 480w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-md.jpg 768w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-lg.jpg 1024w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-xl.jpg 1360w ,https://gugu-blog.vercel.app/media/posts/1/responsive/Wei-Xin-Tu-Pian_20250531024806-2xl.jpg 1600w"></figure>
 <ul>
 <li>实际搭建的全向轮底盘，其四个电机的转速正方向应以逆时针或顺时针规则分布。由此，我们对四个轮子的正方向进行逆时针定义，如上图箭头所示</li>
 <li>虽然直接将机器人坐标系（速度坐标系）定义在主动自由度方向上会简化计算，但由于实际使用中，横轴与纵轴的定义更符合常理，也更利于移植与扩展。因此，对速度在横轴与纵轴上做分解，以 X 轴正方向为正，Y 轴正方向为正，分为 Vx 和 Vy </li>
@@ -104,8 +104,8 @@
 </div>
 <h3>1.6  番外...</h3>
 <p>       写博客累累的捏......😣我看谁不一键三连😡😡😡</p>
-<p><em><a href="https://gugu.cn/liu-yan-ban.html" title="Go to 留言板" target="_blank" rel="noopener noreferrer">博客留言板高速通道   --  点击快速前往博客留言板</a></em></p>
-<p><em><a href="https://gugu.cn" title="Go to 首页">返回首页</a></em></p>
+<p><em><a href="https://gugu-blog.vercel.app/liu-yan-ban.html" title="Go to 留言板" target="_blank" rel="noopener noreferrer">博客留言板高速通道   --  点击快速前往博客留言板</a></em></p>
+<p><em><a href="https://gugu-blog.vercel.app" title="Go to 首页">返回首页</a></em></p>
             ]]>
         </content>
     </entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://gugu.cn/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://gugu.cn/</loc>
+</url>
+<url>
+<loc>https://gugu.cn/bian-zou-bian-zhuan.html</loc>
+<lastmod>2025-05-31T03:55:24+08:00</lastmod>
+</url>
+<url>
+<loc>https://gugu.cn/liu-yan-ban.html</loc>
+<lastmod>2025-06-01T01:41:26+08:00</lastmod>
+</url>
+<url>
+<loc>https://gugu.cn/si-lun-quan-xiang-lun-de-yun-dong-xue-mo-xing-wu-liandshu-xue-mo-xing-de-quan-mian-jie-suan.html</loc>
+<lastmod>2025-06-01T02:39:11+08:00</lastmod>
+<image:image>
+<image:loc>https://gugu.cn/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-014107-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gugu.cn/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-015557.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gugu.cn/media/posts/1/Ping-Mu-Jie-Tu-2025-05-31-021633.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gugu.cn/media/posts/1/Wei-Xin-Tu-Pian_20250531024806.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
